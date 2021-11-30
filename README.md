@@ -20,7 +20,7 @@
 - 앨범이미지나 곡 정보 view 구현
 - 음악 재생 및 각종 조작을 위한 기능 구현
 - Seek Bar 구현 및 조작 시 thread 프로그래밍
-- 
+
 ##### MusicPlayService.java
 - 음악 재생 및 각종 조작을 위한 BroadCast 및 Intent 전송
 
